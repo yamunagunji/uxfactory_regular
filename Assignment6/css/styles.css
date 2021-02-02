@@ -1,0 +1,52 @@
+h3
+{
+text-align: center;
+}
+.nav li {
+    display: inline;
+    padding: 15px 15px;
+}
+.nav li a{
+    font-size: 16px;
+    color: black;
+    text-decoration:none; 
+}
+.nav li a:hover{
+    color:red;
+}
+#nav-logo{
+    font-size: 25px;
+    font-weight: bold;
+}
+.nav-center{
+    position:absolute;
+    left:40%;
+}
+#style{
+    background-color: red;
+}
+.card .shoe img{
+    height: 220px;
+    width: 220px;
+    float:  left;
+    margin: 5px;
+    border: 1px solid black;
+}
+.card .shoe{
+    margin: auto;
+    width: 70%;
+    margin-top: 15px;
+}
+.col{
+    float: left;
+    width: 32%;
+    padding: 5px;
+}
+.red-btn{
+    background-color:red;
+    color: black;
+    padding: 5px 10px;
+    border-radius: 4px;
+    font-weight: bold;
+    border: 1px solid white;
+}
