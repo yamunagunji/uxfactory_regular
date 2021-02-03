@@ -1,0 +1,90 @@
+h3{
+    text-align: center;
+}
+.nav{
+    
+    background-color: black;
+}
+.nav li{
+    display: inline;
+    font-size: 16px;
+    color: white;
+    text-decoration: none;
+    padding: 25px 25px 25px 25px;
+}
+#margin{
+    margin-left: 90%;
+}
+.box {
+    text-align: center;
+    height: 300px;
+    width: 100%;
+    line-height: 300px;
+    font-size: xx-large;
+    color: white;
+    background-color: yellowgreen;
+    margin:auto;    
+}
+#font{
+    font-size: xx-large;
+}
+.hi{
+    box-shadow: 0 8px 6px -6px #CCC;
+}
+.hi div {
+    float: left;
+    width: 32%;
+    padding: 5px;
+    
+}
+.hello{
+    
+    color:black;
+    padding: 0 15px 15px;
+    text-decoration: none;
+    font-size: 16px;
+}
+.col-3 h2
+{
+    padding-left: 15%;
+}
+.sub-nav
+{
+    list-style-type: none;
+    background-color: dimgray;
+}
+.sub-nav li
+{
+    padding: 15px;
+}
+.sub-nav li a
+{
+    text-decoration: none;
+    color:black;
+}
+.Gallery td{
+    padding: 25px 25px;
+    
+}
+
+#blue{
+    background-color: blue;
+    color:white;
+    margin-left: -4px;
+    
+}
+#green{
+    background-color: yellowgreen;
+    color:white;
+    margin-left: -4px;
+}
+#yellow{
+    background-color: yellow;
+    color:white;
+    margin-left: -4px;
+}
+#red{
+    background-color: red;
+    color:white;
+    margin-left: -4px;
+}
